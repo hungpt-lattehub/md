@@ -84,5 +84,14 @@
       "tester_walking/Walk_008.png",
       "tester_walking/Walk_009.png"
     ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.1",
+    "image": "test_walking.png",
+    "format": "RGBA8888",
+    "size": { "w": 2048, "h": 1536 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:4961075da84c895a3791137e6a1e7338:5475cd9dc531ed7ec2363ed39f3627e3:00cedd27535556463d8c0230293f65a8$"
   }
 }
